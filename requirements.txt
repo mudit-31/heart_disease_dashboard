@@ -8,3 +8,9 @@ fastapi
 jupyter
 shap
 lime
+streamlit
+altair
+bokeh
+tensorflow
+xgboost
+joblib
