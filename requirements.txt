@@ -15,4 +15,3 @@ bokeh
 tensorflow
 xgboost
 joblib
-plotly.express
