@@ -14,4 +14,4 @@ altair
 bokeh
 tensorflow
 xgboost
-joblib
+joblib"plotly" 
