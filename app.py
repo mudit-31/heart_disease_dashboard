@@ -6,6 +6,16 @@ import plotly.express as px
 import plotly.graph_objects as go
 from sklearn.preprocessing import StandardScaler
 
+import os
+import subprocess
+
+# Ensure dependencies are installed
+try:
+    import plotly.express as px
+except ModuleNotFoundError:
+    subprocess.run(["pip", "install", "plotly"])
+    import plotly.express as px
+
 # Set page title & layout
 st.set_page_config(page_title="Heart Disease Prediction Dashboard", layout="wide", initial_sidebar_state="collapsed")
 
