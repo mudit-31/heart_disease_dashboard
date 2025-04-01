@@ -4,7 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 flask
-plotly
 fastapi
 jupyter
 shap
@@ -14,4 +13,5 @@ altair
 bokeh
 tensorflow
 xgboost
-joblib"plotly" 
+joblib
+plotly 
