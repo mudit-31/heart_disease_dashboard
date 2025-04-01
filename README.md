@@ -11,8 +11,6 @@ This is a web application built using Streamlit and Plotly to predict heart dise
 -   [Live Demo](#live-demo)
 -   [Installation](#installation)
 -   [Requirements](#requirements)
--   [Dataset](#dataset)
--   [License](#license)
 
 ## About
 
