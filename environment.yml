@@ -1,8 +1,6 @@
-name: heart_tf_env
-channels:
-  - defaults
+name: heart_disease_dashboard
 dependencies:
-  - python=3.10 
+  - python=3.10  # Or your Python version
   - numpy
   - pandas
   - matplotlib
@@ -18,3 +16,6 @@ dependencies:
   - bokeh
   - tensorflow
   - xgboost
+  - joblib
+  - plotly
+  - plotly-express
