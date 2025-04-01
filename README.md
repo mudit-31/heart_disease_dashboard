@@ -26,7 +26,7 @@ This web application is designed to predict heart disease risk using machine lea
 
 ## Live Demo
 
-You can access the deployed application here: [https://heartdiseasedashboard-a7bm7jhhygggrty5gpdmyx.streamlit.app/](App Link)
+You can access the deployed application here: [https://heartdiseasedashboard-a7bm7jhhygggrty5gpdmyx.streamlit.app/] (https://heartdiseasedashboard-a7bm7jhhygggrty5gpdmyx.streamlit.app/)
 
 ## Installation
 
