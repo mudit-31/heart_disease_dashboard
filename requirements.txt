@@ -15,3 +15,4 @@ tensorflow
 xgboost
 joblib
 plotly 
+plotly-express
